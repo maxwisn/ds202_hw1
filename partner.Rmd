@@ -1,0 +1,18 @@
+---
+title: "Lab 1"
+author: "Molly Carrick"
+date: "8/27/2020"
+output: html_document
+---
+
+
+Name: Molly Carrick,
+
+GitHub username: mcarrick00
+
+In the most recent commit, Max Wisnieski (owner), added 89 lines of code to the Homework 1 template.  
+Commit ID: 075bcc4f5bfc5da4fc8247aac1bb650343a8d4d6
+
+I was able to knit the hw1.Rmd file without error.
+
+Difficulty:  We struggled awhile trying to give and get access to eachother's GitHub repositories.  It was difficult to originally find the invitations to eachother's commits.  I think now we have it down, so next time it should be easier.  
